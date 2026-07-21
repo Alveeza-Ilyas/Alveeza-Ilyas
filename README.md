@@ -48,7 +48,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/alveeza-ilyas-9456a7330/)
 - Open for collaboration on Web Development, Machine Learning, and Systems Software!
