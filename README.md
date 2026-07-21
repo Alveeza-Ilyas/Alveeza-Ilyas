@@ -50,5 +50,5 @@
 
 ## Connect With Me
 
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/alveeza-ilyas-9456a7330/)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/alveeza-ilyas-9456a7330/) to watch the live working of these projects.
 - Open for collaboration on Web Development, Machine Learning, and Systems Software!
