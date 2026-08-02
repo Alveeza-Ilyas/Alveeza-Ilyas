@@ -16,6 +16,9 @@
 
 ## Public Repositories & Projects
 
+### [Alveeza-Portfolio](https://github.com/Alveeza-Ilyas/Alveeza-Portfolio)
+- Personal portfolio website repository showcasing my software engineering projects, skills, and experience.
+
 ### [The-Secure-Intra-Office-File-and-Communication-Hub-using-Networking](https://github.com/Alveeza-Ilyas/The-Secure-Intra-Office-File-and-Communication-Hub-using-Networking)
 - A web-based intra-office file sharing and communication portal designed with networking and security concepts.
 
