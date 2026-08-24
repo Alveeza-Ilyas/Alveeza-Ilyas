@@ -10,7 +10,7 @@
 - **Machine Learning & Data:** Python (Google Colab), Kaggle for dataset
 - **Hardware & Logic Design:** Logisim, Digital Logic Design (DLD)
 - **UI/UX & Design Tools:** Figma, Canva
-- **Tools & Platforms:** GitHub, Google Colab, Dev C++, Cisco Packet Tracer for Networking, Sublime, Xampp
+- **Tools & Platforms:** GitHub, Git, Google Colab, Dev C++, Cisco Packet Tracer for Networking, Sublime, Xampp, Vercel, Supabase
 
 ---
 
