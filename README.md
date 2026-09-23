@@ -14,11 +14,6 @@
 
 ---
 
-### [CodeAlpha_tasks](https://github.com/Alveeza-Ilyas/CodeAlpha_tasks)
-- Repository containing C++ tasks and programming solutions completed during the CodeAlpha program.
-
----
-
 ## Connect With Me
 
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/alveeza-ilyas-9456a7330/) to watch the live working of these projects.
