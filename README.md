@@ -6,11 +6,11 @@
 
 ## Skills & Technologies
 
-- **Languages:** C++, HTML, CSS, JavaScript, PHP, Assembly language, MySQL, Python
-- **Machine Learning & Data:** Python (Google Colab), Kaggle for dataset
+- **Languages:** C++, HTML, CSS, JavaScript, PHP, Assembly language, MySQL, Python, Java
+- **Machine Learning & Data:** Python, Kaggle
 - **Hardware & Logic Design:** Logisim, Digital Logic Design (DLD)
-- **UI/UX & Design Tools:** Figma, Canva
-- **Tools & Platforms:** GitHub, Git, Google Colab, Dev C++, Cisco Packet Tracer for Networking, Sublime, Xampp, Vercel, Supabase
+- **UI/UX & Design Tools:** Figma, Canva, Adobe Photoshop
+- **Tools & Platforms:** GitHub, Git, Google Colab, Dev C++, Cisco Packet Tracer for Networking, Sublime, Xampp, Vercel, Supabase, Android Studio
 
 ---
 
