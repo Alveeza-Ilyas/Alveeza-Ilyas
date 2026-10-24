@@ -1,6 +1,6 @@
 # Hi there, I'm Alveeza Ilyas
 
-**Software Engineering Student** passionate about Artificial Intelligence, Web Development, Mobile Application Development, Machine Learning, UI/UX Design, and Networking.
+**Software Engineering Student** passionate about Artificial Intelligence, Web Development, Mobile Application Development, Machine Learning and UI/UX Design.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Machine Learning & Data:** Python, Kaggle
 - **Hardware & Logic Design:** Logisim, Digital Logic Design (DLD)
 - **UI/UX & Design Tools:** Figma, Canva, Adobe Photoshop
-- **Tools & Platforms:** Android Studio, GitHub, Git, Google Colab, Dev C++, Cisco Packet Tracer for Networking, VS Code, Sublime, Xampp, Vercel, Supabase
+- **Tools & Platforms:** Android Studio, GitHub, Git, Google Colab, Dev C++, Cisco Packet Tracer, VS Code, Sublime, Xampp, Vercel, Supabase
 
 ---
 
